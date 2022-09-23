@@ -6,7 +6,7 @@
 
 # Team Members and Roles
 
-* <a href="https://github.com/anudeepamara/GVSU-CIS641-GeekSquad.git" target="_blank">Anudeep(developer,tester)</a>
+* <a href="https://github.com/anudeepamara/CIS641-HW2-AnudeepAmara.git" target="_blank">Anudeep(developer,tester)</a>
 # Prerequisites
 
 # Run Instructions
