@@ -10,6 +10,8 @@
 
 * <a href="https://github.com/ramya5588/CIS641-HW2-Ramyanavuluri.git" target="_blank">Ramya(backend,dbms)</a>
 
+* <a href="https://github.com/Sundeepgantyada09/CIS641-HW2-SundeepGantyada.git" target="_blank">Sundeep(Frontend,Testing)</a>
+
 # Prerequisites
 
 # Run Instructions
